@@ -1,0 +1,28 @@
+_repo: The-Koran-Al-Qur-an_3434
+alternative_title: Koran. English
+contributor:
+  translator:
+    agent_name: Rodwell, J. M. (John Medows)
+    alias: Rodwell, John Medows
+    birthdate: 1808
+    deathdate: 1900
+    gutenberg_agent_id: '1198'
+    url: http://www.gutenberg.org/2009/agents/1198
+    wikipedia: http://en.wikipedia.org/wiki/John_Medows_Rodwell
+description: See also PG#2800 tr. by J.M. Rodwell and PG#7440 tr. by George Sale
+gutenberg_bookshelf:
+- Harvard Classics
+- Islam
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Qur''an'
+title: The Koran (Al-Qur'an)
+url: http://www.gutenberg.org/ebooks/3434
