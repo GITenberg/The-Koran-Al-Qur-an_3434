@@ -1,5 +1,5 @@
 _repo: The-Koran-Al-Qur-an_3434
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Koran. English
 contributor:
   translator:
@@ -10,7 +10,12 @@ contributor:
     gutenberg_agent_id: '1198'
     url: http://www.gutenberg.org/2009/agents/1198
     wikipedia: http://en.wikipedia.org/wiki/John_Medows_Rodwell
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: See also PG#2800 tr. by J.M. Rodwell and PG#7440 tr. by George Sale
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3434#The-Koran-Al-Qur-an
 gutenberg_bookshelf:
 - Harvard Classics
 - Islam
