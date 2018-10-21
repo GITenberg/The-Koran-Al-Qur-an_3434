@@ -1,5 +1,5 @@
 _repo: The-Koran-Al-Qur-an_3434
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Koran. English
 contributor:
   translator:
@@ -30,5 +30,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BP'
 - !lcsh 'Qur''an'
+- GITenberg
 title: The Koran (Al-Qur'an)
 url: http://www.gutenberg.org/ebooks/3434
